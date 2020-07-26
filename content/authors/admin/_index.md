@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Physics
+    institution: University of Rochester
+    year: Current 
   - course: BSc in Astrophysics
     institution: Michigan State University
     year: 2017
