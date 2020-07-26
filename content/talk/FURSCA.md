@@ -9,5 +9,4 @@ draft: false
 location: "Bobbitt Visual Arts Center, Albion College"
 
 authors: ["Pham Nguyen"]
-
 ---
