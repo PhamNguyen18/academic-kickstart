@@ -64,6 +64,6 @@ social:
 #- Visitors
 ---
 
-I graduated with a bachelor of science in astrophysics from Michigan State University. Prior to MSU, I obtained an associate in science in engineering and physics through an early college program at Lansing Community College. Most recently, I was a physics graduate student at the University of Rochesterstudying lunar accretion disks. I left the program and have decided to focus on data science instead. In my free time I enjoy photography. In addition to terrestrial photography, I am also an amateur astrophotographer.
+I graduated with a bachelor of science in astrophysics from Michigan State University. Prior to MSU, I obtained an associate in science in engineering and physics through an early college program at Lansing Community College. Most recently, I was a physics graduate student at the University of Rochester studying lunar accretion disks. I left the program and have decided to focus on data science instead. In my free time I enjoy photography. In addition to terrestrial photography, I am also an amateur astrophotographer.
 
 Note: This website is still under heavy construction!
