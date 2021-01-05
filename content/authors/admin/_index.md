@@ -13,9 +13,9 @@ superuser: true
 role: (Former) Graduate Student
 
 # Organizations/Affiliations
-organizations:
-- name: University of Rochester
-  url: "https://www.rochester.edu/"
+# organizations:
+# - name: University of Rochester
+#  url: "https://www.rochester.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests have recenetly changed but include astrobiology, exoplanets, and data science.
