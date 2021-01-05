@@ -1,7 +1,7 @@
 ---
 title: The Moon: New Views on Formation and Impact History
 event: LCC Physics and Engineering Club
-date: "2018-03-20T18:30:03-05:00"
+date: "2018-03-20"
 all_day: false
 draft: false 
 
