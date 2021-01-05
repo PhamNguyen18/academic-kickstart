@@ -18,7 +18,7 @@ role: (Former) Graduate Student
 #  url: "https://www.rochester.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests have recenetly changed but include astrobiology, exoplanets, and data science.
+bio: My research interests include astrobiology, exoplanets, and data science.
 
 interests:
 - Astrobiology
