@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: (Former) Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,19 @@ organizations:
   url: "https://www.rochester.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include astrobiology, exoplanets, and lunar formation.
+bio: My research interests have recenetly changed but include astrobiology, exoplanets, and data science.
 
 interests:
 - Astrobiology
+- Bioinformatics
+- Data Science 
 - Exoplanets
-- Planetary Science
 
 education:
   courses:
   - course: PhD in Physics
     institution: University of Rochester
-    year: Current 
+    year: 2019-2020 
   - course: BSc in Astrophysics
     institution: Michigan State University
     year: 2017
@@ -63,6 +64,6 @@ social:
 #- Visitors
 ---
 
-I am a first year graduate student of physics at the University of Rochester interested in planetary science. I graduated with a bachelor of science in astrophysics from Michigan State University. Prior to MSU, I obtained an associate in science in engineering and physics through an early college program at Lansing Community College. In my free time I enjoy photography. In addition to terrestrial photography, I am also an amateur astrophotographer.
+I graduated with a bachelor of science in astrophysics from Michigan State University. Prior to MSU, I obtained an associate in science in engineering and physics through an early college program at Lansing Community College. Most recently, I was a physics graduate student at the University of Rochesterstudying lunar accretion disks. I left the program and have decided to focus on data science instead. In my free time I enjoy photography. In addition to terrestrial photography, I am also an amateur astrophotographer.
 
 Note: This website is still under heavy construction!
