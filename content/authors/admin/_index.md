@@ -21,10 +21,12 @@ role: (Former) Graduate Student
 bio: My research interests include astrobiology, exoplanets, and data science.
 
 interests:
-- Astrobiology
+- Astronomy
 - Data Science 
 - Data Visualization
-- Exoplanets
+- Internet Privacy
+- Machine Learning
+
 
 education:
   courses:
