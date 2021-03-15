@@ -20,10 +20,10 @@ subtitle = ""
   name = "Python"
 #  description = "90%"
   
-#[[feature]]
-#  icon = "chart-line"
+[[feature]]
+  icon = "cpp_image"
 #  icon_pack = "fas"
-#  name = "Statistics"
+  name = "C++"
 #  description = "100%"  
   
 #[[feature]]
