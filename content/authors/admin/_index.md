@@ -22,8 +22,8 @@ bio: My research interests include astrobiology, exoplanets, and data science.
 
 interests:
 - Astrobiology
-- Bioinformatics
 - Data Science 
+- Data Visualization
 - Exoplanets
 
 education:
