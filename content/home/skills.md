@@ -21,7 +21,7 @@ subtitle = ""
 #  description = "90%"
   
 [[feature]]
-  icon = "assets/media/icon-pack/cpp_image"
+  icon = "cpp_image"
 #  icon_pack = "fas"
   name = "C++"
 #  description = "100%"  
