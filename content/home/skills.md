@@ -18,13 +18,11 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-#  description = "90%"
   
 [[feature]]
   icon = "cpp_image"
-#  icon_pack = "fas"
+  icon_pack = "custom"
   name = "C++"
-#  description = "100%"  
   
 #[[feature]]
 #  icon = "camera-retro"
