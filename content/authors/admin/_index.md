@@ -18,11 +18,11 @@ role: (Former) Graduate Student
 #  url: "https://www.rochester.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include astrobiology, exoplanets, and data science.
+# bio: My research interests include astrobiology, exoplanets, and data science.
 
 interests:
 - Astronomy
-- Data Science 
+- Data Science
 - Data Visualization
 - Internet Privacy
 - Machine Learning
@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Physics
     institution: University of Rochester
-    year: 2019-2020 
+    year: 2019-2020
   - course: BSc in Astrophysics
     institution: Michigan State University
     year: 2017
@@ -52,9 +52,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/phamnguyen18
+
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+
+- icon: file
+  icon_pack: fab
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -66,6 +70,6 @@ social:
 #- Visitors
 ---
 
-I graduated with a bachelor of science in astrophysics from Michigan State University. Prior to MSU, I obtained an associate in science in engineering and physics through an early college program at Lansing Community College. Most recently, I was a physics graduate student at the University of Rochester studying lunar accretion disks. I left the program and have decided to focus on data science instead. In my free time I enjoy photography. In addition to terrestrial photography, I am also an amateur astrophotographer.
+Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. Over the past year, I have decided to switch gears and am now exploring data science and machine learning. When I'm not noodling with data, I enjoy photography both space and terrestrial!   
 
 Note: This website is still under heavy construction!
