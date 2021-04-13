@@ -70,6 +70,6 @@ social:
 #- Visitors
 ---
 
-Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. Over the past year, I have decided to switch gears and am now exploring data science and machine learning. When I'm not noodling with data, I enjoy photography both [space and terrestrial](pixelfed.social/LunaAndTerra)!   
+Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. Over the past year, I have decided to switch gears and am now exploring data science and machine learning. When I'm not noodling with data, I enjoy photography both [space and terrestrial](https://pixelfed.social/LunaAndTerra)!   
 
 Note: This website is still under heavy construction
