@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 # organizations:
-# - name: University of Rochester
-#  url: "https://www.rochester.edu/"
+# - name: 
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include astrobiology, exoplanets, and data science.
