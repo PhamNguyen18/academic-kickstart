@@ -46,7 +46,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "lcc_moon.pdf"
+url_pdf: "/event/lcc_moon.pdf"
 url_video:
 
 # Markdown Slides (optional).

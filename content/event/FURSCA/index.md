@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "fursca_talk.pdf"
+url_pdf: "/event/fursca_talk.pdf"
 url_video:
 
 # Markdown Slides (optional).
