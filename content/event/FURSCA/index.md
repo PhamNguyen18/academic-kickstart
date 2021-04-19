@@ -4,7 +4,7 @@
 title: Age Assessment and Regional Composition of Lunar Glasses
 event: Foundation for Undergraduate Research, Scholarship, and Creative Activity
 event_url:
-location: Bobbit Visual Arts Center
+location: Bobbit Visual Arts Center, Albion College
 address:
   street: 805 E Cass St
   city: Albion
@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2016-07-28
+date: 2016-07-28T15:00:00-00:00
 # date_end: 2021-04-18T19:35:21-04:00
 all_day: false
 
@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: "fursca_talk.pdf"
 url_video:
 
 # Markdown Slides (optional).

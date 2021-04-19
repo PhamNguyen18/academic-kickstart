@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The Moon: New Views on Formation and Impact History
+title: "The Moon: New Views on Formation and Impact History"
 event: LCC Physics and Engineering Club
 event_url:
 location: Arts and Science Building, Lansing Community College
@@ -16,7 +16,7 @@ abstract: The Moon has been an object of study ever since humans started to obse
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-03-20
+date: 2018-03-20T15:00:00-00:00
 # date_end: 2021-04-18T19:35:14-04:00
 all_day: false
 
@@ -46,7 +46,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: "lcc_moon.pdf"
 url_video:
 
 # Markdown Slides (optional).
