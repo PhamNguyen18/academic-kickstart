@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-# role: (Former) Graduate Student
+role: Programmer 
 
 # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ superuser: true
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include astrobiology, exoplanets, and data science.
+bio: I am an amateur astronomer and a former academic who loves data and programming.
 
 interests:
 - Astronomy
@@ -30,8 +30,8 @@ interests:
 
 education:
   courses:
-  - course: PhD in Physics
-    institution: University of Rochester
+  - course: PhD in Physics (Incomplete)
+    institution: University of Rochester 
     year: 2019-2020
   - course: BSc in Astrophysics
     institution: Michigan State University
@@ -71,5 +71,3 @@ social:
 ---
 
 Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. Over the past year, I have decided to switch gears and am now exploring data science and machine learning. When I'm not noodling with data, I enjoy photography both [space and terrestrial](https://pixelfed.social/LunaAndTerra)!   
-
-Note: This website is still under heavy construction
