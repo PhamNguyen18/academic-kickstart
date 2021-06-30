@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Programmer 
+role: Mainframe Developer
 
 # Organizations/Affiliations
 # organizations:
@@ -70,4 +70,4 @@ social:
 #- Visitors
 ---
 
-Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. Over the past year, I have decided to switch gears and am now exploring data science and machine learning. When I'm not noodling with data, I enjoy photography both [space and terrestrial](https://pixelfed.social/LunaAndTerra)!   
+Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. Over the past year, I have decided to switch gears and now work as a mainframe developer. When I'm not noodling with data, I enjoy photography both [space and terrestrial](https://pixelfed.social/LunaAndTerra)!   
