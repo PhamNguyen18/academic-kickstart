@@ -12,11 +12,6 @@ superuser: true
 # Role/position
 role: Mainframe Developer
 
-# Organizations/Affiliations
-# organizations:
-# - name: 
-#  url: ""
-
 # Short bio (displayed in user profile at end of posts)
 bio: I am an amateur astronomer and a former academic who loves data and programming.
 
@@ -24,14 +19,13 @@ interests:
 - Astronomy
 - Data Science
 - Data Visualization
-- Internet Privacy
 - Machine Learning
 
 
 education:
   courses:
   - course: PhD in Physics (Incomplete)
-    institution: University of Rochester 
+    institution: University of Rochester
     year: 2019-2020
   - course: BSc in Astrophysics
     institution: Michigan State University
@@ -40,15 +34,10 @@ education:
     institution: Lansing Community College
     year: 2014
 
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  
 - icon: github
   icon_pack: fab
   link: https://github.com/phamnguyen18
@@ -57,17 +46,8 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 
-#- icon: file
-#  icon_pack: fab
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
 ---
 
-Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. Over the past year, I have decided to switch gears and now work as a mainframe developer. When I'm not noodling with data, I enjoy photography both [space and terrestrial](https://pixelfed.social/LunaAndTerra)!   
+Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. Over the past year, I have decided to switch gears and now work as a mainframe developer (resume available upon request). When I'm not noodling with data, I enjoy photography both [space and terrestrial](https://pixelfed.social/LunaAndTerra)!   
+
+I am available through several methods of [secure communication](#contact) including Element, Keybase, and email through Tutanota (I check my email most frequently).

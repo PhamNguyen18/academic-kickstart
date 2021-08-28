@@ -1,6 +1,9 @@
-module my-site
-
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210324194200-fda9f39d872e // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210613133202-27b491678438 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/v5 v5.3.0
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210525210730-89d079bcf055 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210525210730-89d079bcf055 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20210811091031-81345fad46b5 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20210811091031-81345fad46b5 // indirect
 )
+
+module github.com/PhamNguyen18/academic-kickstart
