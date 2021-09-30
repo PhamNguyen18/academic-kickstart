@@ -24,11 +24,10 @@ subtitle = ""
   icon_pack = "custom"
   name = "C++"
   
-#[[feature]]
-#  icon = "camera-retro"
-#  icon_pack = "fas"
-#  name = "Photography"
-#  description = "10%"
+[[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "COBOL"
 
 # Uncomment to use emoji icons.
 # [[feature]]
