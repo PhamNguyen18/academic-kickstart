@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/phamnguyen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://phamnguyen.me
+  * I am phamnguyen (https://keybase.io/phamnguyen) on keybase.
+  * I have a public key ASAp-aodauS4ZlKn_fDYhLvogiAJ8UgAga9I8ovnbxuFQAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012029f9aa1d6ae4b86652a7fdf0d884bbe8822009f1480081af48f28be76f1b85400a",
+      "host": "keybase.io",
+      "kid": "012029f9aa1d6ae4b86652a7fdf0d884bbe8822009f1480081af48f28be76f1b85400a",
+      "uid": "5a43176fb0ffa5ec4490c1f7cc0af319",
+      "username": "phamnguyen"
+    },
+    "merkle_root": {
+      "ctime": 1618450619,
+      "hash": "8eafce60f3262940a8c3eb659d51a8eb808e3fb4d1cb02f51ae841d920568390d2538591182a21e75bc383db1e72d82387582771a366a6d5b74cb812f18fab31",
+      "hash_meta": "68d203e01ce0a179ad4ca2b2a9c1b3a88b0b21d39c1701a4fa46a96fac312081",
+      "seqno": 19635627
+    },
+    "service": {
+      "entropy": "TbjWfZtdNzuxLv9xiV+/131h",
+      "hostname": "phamnguyen.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1618450635,
+  "expire_in": 504576000,
+  "prev": "8707b9b24ee8ca055b5e6297ba6cdaf229f19eedf83279032928fbdf28134f1b",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKfmqHWrkuGZSp/3w2IS76IIgCfFIAIGvSPKL528bhUAKp3BheWxvYWTESpcCB8Qghwe5sk7oygVbXmKXumza8inxnu34MnkDKSj73ygTTxvEIBZByq7NUOuf7owVjms6sV5p2qFgQGzj7FuVVNE6waAbAgHCo3NpZ8RAd53mJH3FTuF8bmTx/nKYNFApCfGjmD5ouwkj/ciogG+ZAfERaD15BR+c7T4nxbUrn0nik72OjN9EevYIIJmUD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAXmDCv6vgKM66M800hoBfpKgmT63QjoTIyqfe2qy4Mdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/phamnguyen
+
+==================================================================
