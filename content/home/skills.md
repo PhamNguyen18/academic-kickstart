@@ -13,6 +13,8 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# icon = "cpp_image"
+# icon_pack = "custom"
 
 [[feature]]
   icon = "python"
@@ -20,14 +22,14 @@ subtitle = ""
   name = "Python"
   
 [[feature]]
-  icon = "cpp_image"
-  icon_pack = "custom"
+  icon = "file-code"
+  icon_pack = "fas"
   name = "C++"
   
 [[feature]]
-  icon = "file-code"
+  icon = "database"
   icon_pack = "fas"
-  name = "COBOL"
+  name = "SQL"
 
 # Uncomment to use emoji icons.
 # [[feature]]
