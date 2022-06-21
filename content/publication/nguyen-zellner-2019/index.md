@@ -1,5 +1,5 @@
 ---
-title: "Using Size and Composition to Assess the Quality of Lunar Impact Glass Ages"
+title: 'Using Size and Composition to Assess the Quality of Lunar Impact Glass Ages'
 authors:
 - admin
 - Nicolle Zellner

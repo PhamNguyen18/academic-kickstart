@@ -41,11 +41,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/phamnguyen18
+- icon: mastodon 
+  icon_pack: fab 
+  link: https://mastodon.online/@lunaandterra
+- icon: camera
+  icon_pack: fas
+  link: https://pixelfed.social/lunaandterra 
 
-#- icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
+  highlight_name: true
 
 ---
 
-Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. Over the past year, I have decided to switch gears and now work as a mainframe developer. When I'm not noodling with data, I enjoy photography both [space and terrestrial](https://pixelfed.social/LunaAndTerra)!   
+Welcome! I am a former physics graduate student with an interest in data science. I graduated with a BSc in Astrophysics from Michigan State University where I studied lunar materials from the Apollo missions in collaboration with Albion College. In graduate school, I studied the dynamics of lunar accretion disks. I now work as a mainframe software developer with an eye towards data science in the future. In my spare time I enjoy photography and observing the night sky.
