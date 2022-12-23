@@ -35,15 +35,15 @@ education:
     year: 2014
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  
 - icon: github
   icon_pack: fab
   link: https://github.com/phamnguyen18
-- icon: mastodon 
-  icon_pack: fab 
-  link: https://mastodon.online/@lunaandterra
+#- icon: mastodon 
+#  icon_pack: fab 
+#  link:
 - icon: camera
   icon_pack: fas
   link: https://pixelfed.social/lunaandterra 
